@@ -37,7 +37,7 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
 
 ### Conference
 - **Adversarial Concept Distillation for One-Step Diffusion Personalization**  
-  Yixiong Yang&#42, Tao Wu&#42, Senmao Li, Shiqi Yang, Yaxing Wang, Joost van de Weijer, Kai Wang  
+  Yixiong Yang\*, Tao Wu\*, Senmao Li, Shiqi Yang, Yaxing Wang, Joost van de Weijer, Kai Wang  
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026*
 - **GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models**  
   Muhammad Atif Butt, Alexandra Gomez-Villa, Tao Wu, Javier Vazquez-Corral, Joost Van De Weijer, Kai Wang  
