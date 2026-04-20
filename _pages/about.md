@@ -35,7 +35,9 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
 <span class='anchor' id='-pub'></span>
 ## Publications 
 
-+ xxx
+- **Adversarial Concept Distillation for One-Step Diffusion Personalization**  
+  Yixiong Yang*, **Tao Wu***, Senmao Li, Shiqi Yang, Yaxing Wang, Joost van de Weijer, Kai Wang  
+  *CVPR Findings 2026*
 
 
 <span class='anchor' id='-education'></span>
