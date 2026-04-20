@@ -33,13 +33,22 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
 
 
 <span class='anchor' id='-pub'></span>
-## Publications 
-
+## Publications (First and Co-First Author)
+### Conference
 - **Adversarial Concept Distillation for One-Step Diffusion Personalization**  
   Yixiong Yang*, **Tao Wu***, Senmao Li, Shiqi Yang, Yaxing Wang, Joost van de Weijer, Kai Wang  
   *CVPR Findings 2026*
+### Journal
+- **Diffusion-based network for unsupervised landmark detection**  
+  **Tao Wu**, Kai Wang, Chuanming Tang, Jianlin Zhang  
+  *Knowledge-Based Systems, 2024*
+
+- **Unsupervised detection of contrast enhanced highlight landmarks**  
+  **Tao Wu**, Wenzhuo Fan, Shuxian Li, Qingqing Li, Jianlin Zhang, Meihui Li  
+  *IET Computer Vision, 2023*
 
 
+  
 <span class='anchor' id='-education'></span>
 ## Education
 
