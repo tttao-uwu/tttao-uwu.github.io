@@ -33,11 +33,16 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
 
 
 <span class='anchor' id='-pub'></span>
-## Publications (First and Co-First Author)
+## Publications
+
 ### Conference
 - **Adversarial Concept Distillation for One-Step Diffusion Personalization**  
   Yixiong Yang*, **Tao Wu***, Senmao Li, Shiqi Yang, Yaxing Wang, Joost van de Weijer, Kai Wang  
   *CVPR Findings 2026*
+- **GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models**  
+  Muhammad Atif Butt, Alexandra Gomez-Villa, **Tao Wu***, Javier Vazquez-Corral, Joost Van De Weijer, Kai Wang 
+  *CVPR 2026*
+  
 ### Journal
 - **Diffusion-based network for unsupervised landmark detection**  
   **Tao Wu**, Kai Wang, Chuanming Tang, Jianlin Zhang  
