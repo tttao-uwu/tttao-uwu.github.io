@@ -27,7 +27,7 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
 
 ## News
 
-+ xxx
++ As a reviewer for NeurIPS 2026
 + xxx
 
 
@@ -44,6 +44,11 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
   
 ### Journal
+
+- **Training-free image inversion for one-step diffusion models**  
+  Tao Wu, Senmao Li, Yaxing Wang, Shiqi Yang, Kai Wang, Joost van de Weijer  
+  *Pattern Recognition, 2026*
+
 - **Diffusion-based network for unsupervised landmark detection**  
   Tao Wu, Kai Wang, Chuanming Tang, Jianlin Zhang  
   *Knowledge-Based Systems, 2024*
